@@ -1,0 +1,39 @@
+section{
+    display: flex;
+    flex-direction:column;
+    margin-top: 20px;
+    width: 50%;
+    margin-left: 550px;
+}
+
+
+
+.user{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: white;
+    width: 100%;
+    justify-content: space-between;
+    
+}
+
+.foto{
+    border-radius: 50%;
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.content{
+    width: 100%;
+    
+}
+
+.post{
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+
+
+    
+}

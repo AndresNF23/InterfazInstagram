@@ -53,15 +53,15 @@ class MyPost extends HTMLElement{
             this.shadowRoot.innerHTML = `
             <link rel="stylesheet" href="./app/components/PostInsta/PostInsta.css">
             <section>
-                <div class="header">
+                
                     <div class= "user">
-                        <img src = ${this.pictureprofile}>
+                        <img class = "foto" src = ${this.pictureprofile}>
                         <h3>${this.username}</h3>
                         <img class="icon3" src="../images/imagespost/3points.svg">
                     </div> 
-                 </div>
+                 
             <div class="content">
-                <img src="${this.imagepost}"></img>
+                <img class = "post" src="${this.imagepost}"></img>
             </div>
             <div class="Iconos">
                     <img src="../images/imagespost/chat.svg">

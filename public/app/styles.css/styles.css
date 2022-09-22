@@ -16,16 +16,22 @@ h2{
     margin-left:5em;
 
 }
+section{
+    display: flex;
+    flex-direction:column;
+    
+}
 
 .profileList{
     display: flex;
     flex-direction: row;
-    margin-left:5em;
-    width:50%;
+    margin-left:50em;
+    width:27%;
     background-color: rgb(255, 255, 255);
     border-style: solid;
     border-color: rgb(196, 196, 196);
     border-radius: 8px;
+    align-items: center;
 
 }
 
