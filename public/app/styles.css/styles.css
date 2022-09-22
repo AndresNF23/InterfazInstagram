@@ -1,0 +1,46 @@
+/*este se encargara de darle bien la estructura de toddos*/
+@import "/app/components/Profile/profiles.css";
+@import "/app/components/Profile/profileElem/profile.css";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+h1,h2,h3,p,span,a{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+h2{
+    font-size: 12px;
+    
+}
+.app{
+    margin-left:5em;
+
+}
+
+.profileList{
+    display: flex;
+    flex-direction: row;
+    margin-left:5em;
+    width:50%;
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-color: rgb(196, 196, 196);
+    border-radius: 8px;
+
+}
+
+.suggestions{
+    display: flex;
+    flex-direction: row;
+    margin-left:5em;
+    width:50%;
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-color: rgb(196, 196, 196);
+    border-radius: 8px;
+}
+
+.section1{
+    background-color:black;
+    width:100%;
+}

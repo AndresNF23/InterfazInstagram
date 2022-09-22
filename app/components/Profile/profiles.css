@@ -1,0 +1,4 @@
+.my-profiles{
+    display: flex;
+    flex-direction: row;
+}

@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.suggestion{
+    background-color: white;
+    width:500px;
+    display:flex;
+    flex-direction: row;
+
+}
+
+.profileUser{
+    border-radius: 50%;
+    width:100px;
+    height:100px;
+    padding-left:10px;
+    padding-right:10px;
+    
+}
+.infoUsers{
+    font-family: 'Montserrat', sans-serif;
+    font-size:16px;
+    margin-right:50px;
+   
+
+}
+
+.username{
+
+}
+
+.palabra{
+
+}
+
+.textoSeguir{
+    font-family: 'Montserrat', sans-serif;
+    font-size:16px;
+    color:rgb(80, 111, 235);
+    margin-top:40px;
+}
+

@@ -1,0 +1,9 @@
+.my-profiles{
+    display: flex;
+    flex-direction: row;
+    background-color: aqua;
+}
+
+.alo{
+    color:aqua;
+}

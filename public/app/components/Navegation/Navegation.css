@@ -1,0 +1,68 @@
+.navegation{
+    display: flex;
+    flex-direction: row;
+    top:0;
+    left:0;
+    width:100%;
+    height:100px;
+    align-items: center;
+    border-bottom: 2px solid;
+    border-color:gray;
+    border-radius: 10px;
+    margin-bottom:80px;
+}
+
+.instagram{
+    width:150px;
+    height:80px;
+    
+}
+.search{
+    margin-left:100px;
+
+
+}
+
+.searchInput{
+
+}
+
+.lista{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.listaOl{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.listaElem{
+   
+    padding-left:10px;
+    padding-right:10px;
+
+}
+
+.icono{
+   
+    padding-left:10px;
+    padding-right:10px;
+
+}
+
+.deku{
+   
+    padding-left:90px;
+
+}
+
+.dekuImg{
+    height:60px;
+    width:60px;
+    border-radius:50%;
+
+}
