@@ -8,27 +8,40 @@ interface DatasHistorias {
 const data: DatasHistorias[] = [
   { 
   id: 1,
-  username: "AndresNarvaez_owo",
-  image: "../images/profilepic.jpeg",
+  username: "Tenya Iida",
+  image: "../images/imagesHistory/Iida.jpg",
   
   },
   {
     id: 2,
-    username: "Stephy_Meh",
-    image: "../images/profilepic.jpeg",  
+    username: "__Howks",
+    image: "../images/imagesHistory/Howks.jpg",  
 
   },
   {
     id: 3,
-    username: "laxo_2",
-    image: "../images/profilepic.jpeg",  
+    username: "All_Might",
+    image: "../images/imagesHistory/AllMIght.jpg",  
 
   },
   {
     id: 4,
-    username: "dreaming_nightmare",
-    image: "../images/profilepic.jpeg",  
+    username: "Bakugo",
+    image: "../images/imagesHistory/Bakugo.jpg",  
+
+  },
+  {
+    id: 5,
+    username: "Kirishima",
+    image: "../images/imagesHistory/Kirishima.jpg",  
+
+  },
+  {
+    id: 6,
+    username: "Uraraka",
+    image: "../images/imagesHistory/Uraraka.jpg",  
 
   }
+
   ]
   export default data;

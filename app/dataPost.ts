@@ -11,18 +11,18 @@
   const data2: PostData[] = [
     {
       id: 1,
-      pictureprofile: "../images/imagespost/equipo.jpg",
-      username: "AndresCoz",
-      imagepost: "../images/imagespost/deku.jpg",
+      pictureprofile: "../images/imagespost/DekuVigilante.jpg",
+      username: "Deku",
+      imagepost: "../images/imagespost/equipo.jpg",
       likes: "10",
       description: "Aluakbar",
       comments: "Show to 5 comments"
     },
     {
       id: 2,
-      pictureprofile: "../images/imagespost/equipo.jpg",
+      pictureprofile: "../images/imagespost/mirio.jpg",
       username: "CamiloGuevara",
-      imagepost: "../images/imagespost/deku.jpg",
+      imagepost: "../images/imagespost/los3gran.jpg",
       likes: "10",
       description: "nose",
       comments: "Show to 12 comments"

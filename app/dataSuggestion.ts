@@ -10,14 +10,14 @@ interface DataSuggestion {
     {
       id: 1,
       pictureprofile: "../images/imagesugestion/perrito.png",
-      username: "GuiART",
+      username: "Perrito1",
       palabra: "Sugerencia para ti",
 
     },
     {
         id: 2,
         pictureprofile: "../images/imagesugestion/perrito.png",
-        username: "Salomon69",
+        username: "Perrito2",
         palabra: "Sugerencia para ti",
     }
   ]

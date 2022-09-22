@@ -33,7 +33,7 @@ class MyNavegation extends HTMLElement{
                         <li class="listaElem"><img class = "icono" src ="../images/images2/explore.png"/></li>
                         <li class="listaElem"><img class = "icono" src ="../images/images2/home.png"/></li>
                         <li class="listaElem"><img class = "icono" src ="../images/images2/like.png"/></li>
-                        <li class="deku"><img class = "dekuImg" src ="../images/images2/deku.jpg"/></li>
+                        <li class="deku"><img class = "dekuImg" src ="../images/images2/shoto.jpg"/></li>
                     </ol>
                 </div>
             </section>
